@@ -1,17 +1,22 @@
 
-<p align="center"><img width=12.5% src="https://lh3.googleusercontent.com/xLuQCcvgeQGYDdE5B4t0Bq3CNMXT8ABqRYNTXzj_AgIbRBiGGhyoIvOXFUbKDvukWbo=s180-rw"></p>
+
+<p align="center"><img width=12.5% src="https://macarteycreacion.com/api/aruppi/logo.png"></p>
+<p align="center"><img src="https://macarteycreacion.com/api/aruppi/aruppi.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=23)
+![Anime Manga](https://img.shields.io/badge/Anime-Manga-red.svg)
+![Colaboradores welcome](https://img.shields.io/badge/Android-Compatible-green.svg) [![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=23)
 [![Download](https://img.shields.io/badge/Kotlin-1.3.60-brightgreen.svg?style=flat&logo=kotlin)](https://kotlinlang.org/docs/reference/whatsnew13.html)
 [![API](https://img.shields.io/badge/J%C3%A9luchu-1.0.0-blue.svg?style=flat&logo=ello)](https://play.google.com/store/apps/dev?id=7449422814338081261&hl=es_ES)
-![Colaboradores welcome](https://img.shields.io/badge/Colaboración-Espera-orange.svg)
+![Colaboradores welcome](https://img.shields.io/badge/Colaboración-Abierta-green.svg)
 
 Aruppi es una aplicación creada con el fin de proporcionar toda la información de tus animes, mangas y novelas ligeras favoritas, con la posibilidad de guardarlas en la nube. Una aplicación totalmente gratuita y sin anuncios para acercar toda esta cultura a todos los hispanohablantes.
 
 **Todos los animes, personajes y logotipos pertenecen a sus respectivos derechos de autor.**
 
 Desde aquí agradecemos a todas aquellas personas que día a día prueban la aplicación y nos reportan los errores de rendimiento de la aplicación.
+
+<p align="center"><img src="https://macarteycreacion.com/api/aruppi/intro.png"></p>
 
 ## Características
 
@@ -71,17 +76,12 @@ Todas estas fuentes se engloban en una misma API REST realizada por uno de nuest
 ## Colaboradores
 
 Aquí os mostramos aquellas personas que estamos al cargo del desarrollo de la aplicación tanto del front como del backend de Aruppi, os agradecemos mucho vuestro apoyo y los feedbacks que recibimos por todos los usuarios de la app.
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/jesusmariacalderon/"><img src="https://avatars0.githubusercontent.com/u/32357592?s=460&v=4" width="75px;" alt="Gabriel Arroyo"/><br /><sub><b>Jéluchu</b></sub></a><br/><sub>Desarrollo Android</sub></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/gabriel-arroyo-pajares-8bb459162/"><img src="https://avatars1.githubusercontent.com/u/22908337?s=88&v=4" width="75px;" alt="CJ R."/><br /><sub><b>Gabriel Arroyo</b></sub></a><br/><sub>Desarrollo .NET</sub></td>
   </tr>
 </table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Si queréis participar en el desarrollo de la aplicación junto a nosotros, os invitamos a que nos escribáis un correo electrónico a:  <infoaruppi@gmail.com>
