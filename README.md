@@ -76,8 +76,8 @@ Aquí os mostramos aquellas personas que estamos al cargo del desarrollo de la a
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/chrisperezsantiago/"><img src="https://avatars0.githubusercontent.com/u/32357592?s=460&v=4" width="75px;" alt="Gabriel Arroyo"/><br /><sub><b>Jéluchu</b></sub></a><br/><sub>Desarrollo Android</sub></a></td>
-    <td align="center"><a href="https://w3cj.sh"><img src="https://avatars1.githubusercontent.com/u/22908337?s=88&v=4" width="75px;" alt="CJ R."/><br /><sub><b>Gabriel Arroyo</b></sub></a><br/><sub>Desarrollo .NET</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/in/jesusmariacalderon/"><img src="https://avatars0.githubusercontent.com/u/32357592?s=460&v=4" width="75px;" alt="Gabriel Arroyo"/><br /><sub><b>Jéluchu</b></sub></a><br/><sub>Desarrollo Android</sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/gabriel-arroyo-pajares-8bb459162/"><img src="https://avatars1.githubusercontent.com/u/22908337?s=88&v=4" width="75px;" alt="CJ R."/><br /><sub><b>Gabriel Arroyo</b></sub></a><br/><sub>Desarrollo .NET</sub></td>
   </tr>
 </table>
 <!-- markdownlint-enable -->
