@@ -70,6 +70,7 @@ Algunas de las fuentes que hemos usado en dicho desarrollo son las siguientes:
 | AnimeFLV | Según la serie a la que se realice la consulta de información se le mostrará los diversos capítulos de los que se dispone | [https://github.com/ChrisMichaelPerezSantiago/animeflv](https://github.com/ChrisMichaelPerezSantiago/animeflv)|
 | Anitakume | Obtención de PodCast en castellano en los cuales se trata temas de cultura japonesa, noticias de anime o críticas de la misma | [https://www.ivoox.com/podcast-anitakume_sq_f1660716_1.html](https://www.ivoox.com/podcast-anitakume_sq_f1660716_1.html)|
 | Listen.moe | Obtención de música 24/7, como puede ser K-Pop o J-Pop | [https://listen.moe/](https://listen.moe/)|
+| Fastlane | Herramienta para la automatización de tareas (subidas a la tienda de apps, limpieza de proyecto, etc) | [https://fastlane.tools/](https://fastlane.tools/)|
 
 Todas estas fuentes se engloban en una misma API REST realizada por uno de nuestros colaboradores, y de la que podéis ver toda la información en el siguiente enlace: [AruppiServices](https://github.com/aruppi/AruppiServices)
 
