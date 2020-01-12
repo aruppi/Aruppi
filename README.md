@@ -22,15 +22,15 @@ Desde aquí agradecemos a todas aquellas personas que día a día prueban la apl
 
 A continuación os mostramos las características de la aplicación y su estado actual dentro del desarrollo de la aplicación. Estamos abiertos a nuevas mejoras dentro de la misma, si tenéis alguna sugerencia os invitamos a escribirnos por correo electrónico en: <infoaruppi@gmail.com>. Este es el estado actual de las características de la app:
 
-- [x] **Calendario** - *averiado*	
+- [x] **Calendario**
 - [x] **Temporadas**
 - [x] **Información de la serie** 
 - [x] **Galería por serie**
-- [x] **Episodios** - *en proceso*
-- [x] **Radio** - *en proceso*
+- [x] **Episodios**
+- [x] **Radio**
 - [x] **PodCast**
 - [ ] **Modo Nocturno** - *próximamente*
-- [ ] **Ampliación de servidores (Episodios)** - *próximamente*
+- [x] **Ampliación de servidores (Episodios)**
 - [ ] **Wallpapers** - *en construcción*
 
 Aquellas que no tienen ningún estado es porque se ha finalizado su desarrollo (sin contar posibles mejoras o correcciones dentro de dicha sección, puesto que la base está terminada)
@@ -80,8 +80,10 @@ Aquí os mostramos aquellas personas que estamos al cargo del desarrollo de la a
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/jesusmariacalderon/"><img src="https://avatars0.githubusercontent.com/u/32357592?s=460&v=4" width="75px;" alt="Gabriel Arroyo"/><br /><sub><b>Jéluchu</b></sub></a><br/><sub>Desarrollo Android</sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/jesusmariacalderon/"><img src="https://avatars0.githubusercontent.com/u/32357592?s=460&v=4" width="75px;" alt="Jeluchu"/><br /><sub><b>Jéluchu</b></sub></a><br/><sub>Desarrollo Android</sub></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/gabriel-arroyo-pajares-8bb459162/"><img src="https://avatars1.githubusercontent.com/u/22908337?s=88&v=4" width="75px;" alt="CJ R."/><br /><sub><b>Gabriel Arroyo</b></sub></a><br/><sub>Desarrollo .NET</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/in/patricia-carrera/"><img src="https://avatars0.githubusercontent.com/u/36893080?s=400&v=4" width="75px;" alt="TrishaRace"/><br /><sub><b>TrishaRace</b></sub></a><br/><sub>Desarrollo Android</sub></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/ronny-montaño-b62580144"><img src="https://avatars0.githubusercontent.com/u/32899425?s=400&v=4" width="75px;" alt="Ronny"/><br /><sub><b>Ronny</b></sub></a><br/><sub>Desarrollo Android</sub></a></td>
   </tr>
 </table>
 
