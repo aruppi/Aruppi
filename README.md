@@ -22,7 +22,7 @@ Esta aplicación está disponible para aquellos que tengan dispositivos Android 
 
 **EN:** This application only shows content in Spanish, the subtitles of the videos and the information is only in that language
 
-** All anime, characters, and logos belong to their respective copyright. This project is carried out for educational and non-profit reasons. **
+**All anime, characters, and logos belong to their respective copyright. This project is carried out for educational and non-profit reasons.**
 
 **Aruppi is an independent project that does not host or store any conten** on our servers, its development is **not associated with any content provider**, it contains **links to third party pages** of which we do not have control over them. All anime, characters, and logos belong to their respective copyright. Send an email with any questions or concerns to infoaruppi@gmail.com
 
