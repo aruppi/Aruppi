@@ -1,6 +1,6 @@
-
-
 ![https://repository-images.githubusercontent.com/223929149/c61f8c80-cb50-11ea-81dd-5272692a9f9d](https://repository-images.githubusercontent.com/223929149/c61f8c80-cb50-11ea-81dd-5272692a9f9d)
+
+**Esta versión es una versión beta, lo que significa que puede contener fallos, por lo que pedimos paciencia, además de que podáis reportarnos los errores por nuestros canales habituales: [infoaruppi@gmail.com](mailto:infoaruppi@gmail.com), [Discord](https://discord.gg/cTqmbgH), [Telegram](https://t.me/joinchat/AAAAAFkVhN6Uf3GRB99WaA), [Instagram](https://www.instagram.com/aruppiapp/) o [Facebook](https://www.facebook.com/AruppiApp)**
 
 **Aruppi es una aplicación totalmente diferente al resto**, diseñada por y para fans, en la que podrás ver toda la información de tus animes, mangas y novelas favoritas. Podrás también escuchar nuestros podcast con los que estarás al día de las últimas novedades, o la radio 24/7 de K-Pop o J-Pop. ¡No te lo pierdas!
 
